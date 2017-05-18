@@ -1,4 +1,4 @@
-<?php
+<<?php
 /**
  * @package    oakcms
  * @author     Hryvinskyi Volodymyr <script@email.ua>
@@ -395,3 +395,4 @@ class Product extends \yii\db\ActiveRecord implements
         return $images;
     }
 }
+
